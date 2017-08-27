@@ -12,7 +12,7 @@ public class BubleSortExample {
 		//initializing array
 		int a[] = {10,2,5,1,25,17,4};
 		sortElements(a);
-		System.out.println("Bublesorting is complete..");
+		System.out.println("Bublesorting is complete....");
 		
 	}
 	public static void sortElements(int a[]) {
